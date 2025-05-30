@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asana.CLI", "Asana.CLI\Asana.CLI.csproj", "{D56579C5-A1F9-4E79-A23D-152B0B8CBB20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asana.library", "Asana.library\Asana.library.csproj", "{BA7E2277-B470-4718-B746-7B83BE05146C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D56579C5-A1F9-4E79-A23D-152B0B8CBB20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D56579C5-A1F9-4E79-A23D-152B0B8CBB20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D56579C5-A1F9-4E79-A23D-152B0B8CBB20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D56579C5-A1F9-4E79-A23D-152B0B8CBB20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA7E2277-B470-4718-B746-7B83BE05146C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA7E2277-B470-4718-B746-7B83BE05146C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA7E2277-B470-4718-B746-7B83BE05146C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA7E2277-B470-4718-B746-7B83BE05146C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65E9A953-1446-468D-942F-684A010ACAEC}
+	EndGlobalSection
+EndGlobal
